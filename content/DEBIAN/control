@@ -6,4 +6,6 @@ Priority: optional
 Architecture: armhf
 Depends: xbian-package-xbmc (>=2.3)
 Maintainer: Koenkk <development@xbian.org>
+Provides: libshairport1
+Conflicts: libshairport1
 Description: libshairport for XBian
