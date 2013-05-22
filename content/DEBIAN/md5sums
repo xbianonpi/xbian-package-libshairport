@@ -1,0 +1,5 @@
+154dfbc620011ca73a88341337eb9c55  usr/local/include/shairport/ao.h
+858a4441226bfbaebe93afc6b1acd7d3  usr/local/include/shairport/shairport.h
+ea18cb0bc0cb33d3f925f1a494edb6e4  usr/local/include/shairport/socketlib.h
+161231314a31a08f053693aa08453e66  usr/local/lib/libshairport.la
+075dca7b5abbbbfcb7d1273ef1183155  usr/local/lib/libshairport.so.0.0.0
